@@ -1,20 +1,23 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Inteligência Artificial nos Bancos de Dados 📊
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+O e-book “Inteligência Artificial nos Bancos de Dados” explora a aplicação de técnicas de IA no gerenciamento e otimização de sistemas de banco de dados.
+
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- Redes Neurais Adversariais (GANs): Exploramos como as GANs podem gerar dados sintéticos para testes e treinamento de modelos de IA. Isso incluiu a criação de conjuntos de dados realistas para simular cenários reais.
+ - Processamento de Linguagem Natural (NLP): Utilizamos modelos de NLP para melhorar a compreensão de consultas e sugestões de otimização. Esses modelos ajudaram a traduzir linguagem natural em comandos SQL eficientes.
+ - Aprendizado de Máquina Supervisionado: Treinamos modelos supervisionados para detectar anomalias em logs de banco de dados. Isso nos permitiu identificar problemas rapidamente.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Para criar o e-book, utilizei o ChatGPT para revisar minha pesquisa sobre IAs Generativas e estruturar o conteúdo. Além disso, o Microsoft Copilot foi uma ferramenta valiosa para organizar o código em formato Markdown. Combinando essas duas tecnologias, conseguimos produzir um e-book informativo e bem formatado. 🚀📝
+
+
 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/rafalemke/lab-natty-or-not/blob/main/exemplos/IaDatabase.md)
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Criar algo “natty” (natural) com IA é um desafio constante. A busca pela perfeição nos faz refletir sobre como a IA pode se tornar cada vez mais indistinguível do trabalho humano. É uma jornada emocionante!
